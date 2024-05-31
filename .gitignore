@@ -143,6 +143,12 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+.DS_Store
+
+polariton_project/.DS_Store
+cms-workshop/.DS_Store
+misc/.DS_Store
+
 # Pyre type checker
 .pyre/
 
