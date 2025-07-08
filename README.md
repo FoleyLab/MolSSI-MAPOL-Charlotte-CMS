@@ -45,7 +45,7 @@ An environment.yml file is included that you can use to create a conda environme
 | 9:00 - 10:15 (CMS)      | Model fitting with SciKitLearn 1                             | 06_sklearn_fitting_1                      | Jay  |
 | 10:30 - 12:00 (CMS)     | Model Fitting with ScieKitLearn 2 + Project Brainstorm 2     | 07_ESOL_Fitting                           | Ashley + Jessica |
 | 1:15 - 2:15 (lecture)   | Prof. Eugene DePrince                                        |                                           |   --   |
-| 2:30 - 3:30 (Tour)      | Botanical Gardens Tour + Project Brainstorm 3                |                                           |   --   |
+| 2:30 - 3:30 (Tour)      | Botanical Gardens Sessopm                |                                           |   Jeff Gillman  |
 | 3:45 - 5:00 (CMS)       | Intro to Quantum Chemistry 1                                 | Psi4Education spectroscopic_constants     | Ashley |
 
 ### Thursday, July 17th
