@@ -17,20 +17,18 @@ These notebooks are all compatible with [chemcpompute.org](https://chemcompute.o
 ### Install locally
 An environment.yml file is included that you can use to create a conda environment for the notebooks if you have the conda package manager installed.
 
-## Schedule for MERCURY 2024
+## Schedule for MolSSI-Charlotte 2025
 
 ### Day 1
 
-| Time                  | Topic                                               | Notebook(s)                                     |
-|-----------------------|-----------------------------------------------------|-------------------------------------------------|
-| 9:30 AM - 10:45 AM    | Introduction to molecular representations           | `01_molecule_representation`
-| 10:45 AM - 11:00 AM   | Break                                               |  
-| 11:00 AM - 12:00 PM   | Introduction to RDKit molecules                     | `02_rdkit_intro`
-| 12:00 PM - 1:30 PM    | Lunch                                               |
-| 1:30 PM - 2:15 PM     | Cheminformatics: Molecular Similarity Measures      | `03_molecular_similarity`
-| 2:15 PM - 3:00 PM     | Cheminformatics: Molecular Descriptors              | `03_molecular_similarity`
-| 3:00 PM - 3:30 PM     | Snack Break                                         | 
-| 3:30 PM - 4:45 PM     | Exercise: Building a Dataset using RDKit            | `04_RDKit_dataset`
+| Time (Session Type)     | Topic                                                        | Notebooks                             | Lead                            |
+|-------------------------|--------------------------------------------------------------|---------------------------------------|---------------------------------|
+| 9:15 - 10:30 (CMS)      | Intro to Jupyter, Chemcompute                                | 00_python_basics                      | Ashley Ringer McDonald          |
+| 10:45 - 12:00 (lecture) | Introduction to Cheminformatics + Project Brainstorm 1       |                                       | Jessica Nash                    |
+| 1:15 - 2:15 (lecture)   | Introduction to Quantum Chemistry                            |                                       | Ashley Ringer McDonald          |
+| 2:30 - 3:45 (CMS)       | Molecular Representations                                     | 01_molecule_representation           | Jay Foley                             |
+| 4:00 - 5:15 (CMS)       | Introduction to RDKit                                        | 02_rdkit_intro                        | Jessica                         |
+
 
 ### Day 2
 
