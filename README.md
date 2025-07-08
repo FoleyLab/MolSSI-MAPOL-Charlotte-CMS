@@ -19,7 +19,7 @@ An environment.yml file is included that you can use to create a conda environme
 
 ## Schedule for MolSSI-Charlotte 2025
 
-### Day 1
+### Monday, July 14th
 
 | Time (Session Type)     | Topic                                                        | Notebooks                             | Lead                            |
 |-------------------------|--------------------------------------------------------------|---------------------------------------|---------------------------------|
@@ -30,17 +30,30 @@ An environment.yml file is included that you can use to create a conda environme
 | 4:00 - 5:15 (CMS)       | Introduction to RDKit                                        | 02_rdkit_intro                        | Jessica                         |
 
 
-### Day 2
+### Tuesday, July 15th
+| Time (Session Type)     | Topic                                                        | Notebooks                   | **Lead**      |
+|-------------------------|--------------------------------------------------------------|-----------------------------|------|
+| 9:00 - 10:15 (CMS)      | Molecular similarity                                         | 03_molecular_similarity     | Ashley |
+| 10:30 - 11:45 (CMS)     | Molecular descriptors                                        | 03_molecular_similarity     | Jay   |
+| 1:15 - 2:15 (lecture)   | Prof. Yara Yingling                                          |                             |   --   |
+| 2:30 - 3:30 (CMS)       | Data science libraries: Pandas and Seaborn                   | 05_pandas_seaborn           | Ashley |
+| 3:45 - 5:15 (Independent Work) | Building a data set with RDKit                       | 04_RDKit_dataset            |  -- |
 
-| Time                  | Topic                                               | Notebook(s)                                     |
-|-----------------------|-----------------------------------------------------|-------------------------------------------------|
-| 9:00 AM - 10:30 AM    | Python Data Science Libraries: Pandas and Seaborn   | `05_pandas_seaborn`
-| 10:30 AM - 10:45 AM   | Break                                               | 
-| 10:45 AM - 11:45 AM   | Model Fitting with SciKit Learn: Part 1             | `06_sklearn_fitting_1`
-| 11:45 AM - 1:00 PM    | Lunch                                               |
-| 1:00 PM - 3:00 PM     | Model Fitting with SciKit Learn: Part 2             | `07_ESOL_fitting`
-| 3:00 PM - 3:30 PM     | Snack Break                                         |
-| 3:30 PM - 3:45 PM     | Closing                                             |
+### Wednesday, July 16th
+| Time (Session Type)     | Topic                                                        | Notebooks                                 |      |
+|-------------------------|--------------------------------------------------------------|-------------------------------------------|------|
+| 9:00 - 10:15 (CMS)      | Model fitting with SciKitLearn 1                             | 06_sklearn_fitting_1                      | Jay  |
+| 10:30 - 12:00 (CMS)     | Model Fitting with ScieKitLearn 2 + Project Brainstorm 2     | 07_ESOL_Fitting                           | Ashley + Jessica |
+| 1:15 - 2:15 (lecture)   | Prof. Eugene DePrince                                        |                                           |   --   |
+| 2:30 - 3:30 (Tour)      | Botanical Gardens Tour + Project Brainstorm 3                |                                           |   --   |
+| 3:45 - 5:00 (CMS)       | Intro to Quantum Chemistry 1                                 | Psi4Education spectroscopic_constants     | Ashley |
 
-Exercise for Python Data Science Libraries is to load the file we wrote for the homework/wrap up yesterday and visualize the relationships using Seaborn.
+### Thursday, July 17th
+| Time (Session Type)     | Topic                                                        | Notebooks                                   |      |
+|-------------------------|--------------------------------------------------------------|---------------------------------------------|------|
+| 9:00 - 11:00 (CMS)      | Intro to Quantum Chemistry 2 + Project Brainstorm 4         | Psi4Education machine_learning              | Jay  |
+| 11:00 - 12:00 (CMS)     | Time for working on projects                                |                                             |  --    |
+| 1:15 - 2:15 (lecture)   | Grad School Presentations                                   |                                             |  --    |
+| 2:30 - 5:15 (CMS)       | Time for working on projects                                |                                             |  --    |
+
 
